@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Model files
+*.engine
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.pb
+model*/
+weights/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Data
+data/
+datasets/
+*.mp4
+*.avi
+*.jpg
+*.png
+*.jpeg
+recordings/
