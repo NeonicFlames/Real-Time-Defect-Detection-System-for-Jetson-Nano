@@ -28,7 +28,7 @@ A real-time dual-camera product inspection system using YOLO object detection to
 
 2. **Install dependencies:**
    ```bash
-   pip install opencv-python numpy ultralytics requests
+   pip install -r requirements.txt
    ```
 
 3. **Setup your YOLO model:**
